@@ -1,7 +1,3 @@
-Here's a detailed and beginner-friendly `README.md` for your InvoiceGenerator app:  
-
----
-
 # **InvoiceGenerator App**  
 An intuitive and efficient invoice management app built with **React Native**, leveraging the power of **NativeWind**, **Zustand**, **Expo Router**, and **Stripe** for seamless styling, state management, navigation, and payment processing.  
 
@@ -165,7 +161,7 @@ This project is licensed under the MIT License.
 
 ## **Contact**  
 For questions or feedback, feel free to reach out at:  
-📧 Email: your.email@example.com  
+📧 Email: ciaranjmcgovern@gmail.com
 
 Happy Coding! 🚀  
 
